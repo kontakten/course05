@@ -10,6 +10,13 @@ namespace kursus05c
     {
         static void Main(string[] args)
         {
+
+        }
+
+        [Obsolete]
+        static void Test()
+        {
+
         }
     }
 }
